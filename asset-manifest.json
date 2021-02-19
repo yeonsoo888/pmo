@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/pmo/static/css/main.1055e7e8.chunk.css",
+    "main.js": "/pmo/static/js/main.1d12d8d0.chunk.js",
+    "main.js.map": "/pmo/static/js/main.1d12d8d0.chunk.js.map",
+    "runtime-main.js": "/pmo/static/js/runtime-main.dbeb44a5.js",
+    "runtime-main.js.map": "/pmo/static/js/runtime-main.dbeb44a5.js.map",
+    "static/js/2.ebfba33d.chunk.js": "/pmo/static/js/2.ebfba33d.chunk.js",
+    "static/js/2.ebfba33d.chunk.js.map": "/pmo/static/js/2.ebfba33d.chunk.js.map",
+    "static/js/3.10e65abd.chunk.js": "/pmo/static/js/3.10e65abd.chunk.js",
+    "static/js/3.10e65abd.chunk.js.map": "/pmo/static/js/3.10e65abd.chunk.js.map",
+    "index.html": "/pmo/index.html",
+    "static/css/main.1055e7e8.chunk.css.map": "/pmo/static/css/main.1055e7e8.chunk.css.map",
+    "static/js/2.ebfba33d.chunk.js.LICENSE.txt": "/pmo/static/js/2.ebfba33d.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/pmo/static/media/logo.6ce24c58.svg",
+    "static/media/header.module.css": "/pmo/static/media/main_icons.eff14d31.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dbeb44a5.js",
+    "static/js/2.ebfba33d.chunk.js",
+    "static/css/main.1055e7e8.chunk.css",
+    "static/js/main.1d12d8d0.chunk.js"
+  ]
+}
