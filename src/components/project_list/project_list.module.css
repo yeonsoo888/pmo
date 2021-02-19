@@ -1,0 +1,23 @@
+.table table {
+    width: 100%;
+    border-top: 3px solid #1395d9;
+    border-right: 1px solid #eee;
+    border-left: 1px solid #eee;
+}
+.table table th {
+    font-size: 15px;
+    color: #18365c;
+    font-weight: 600;
+    padding: 17px;
+    border-bottom: 1px solid #eaedf0;
+}
+.table tbody tr {
+    border-bottom: 1px solid #eee;
+}
+.table tbody td {
+    padding: 10px 10px;
+    text-align: center;
+}
+.table tbody td:nth-of-type(1) {
+    text-align: left;
+}

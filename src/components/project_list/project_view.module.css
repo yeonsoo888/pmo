@@ -1,0 +1,89 @@
+.viewWrap {
+    width: 100%;
+    padding: 50px 30px;
+    border: 1px solid #eee;
+    border-radius: 10px;
+}
+.viewWrap table {
+    width: 100%;
+}
+
+.viewWrap select {
+    vertical-align: middle;
+    font-size: 13px;
+    border-radius: 5px;
+    color: #7a889e;
+    height: 40px;
+    line-height: 40px;
+    border: 1px solid #ecedf1;
+    padding-left: 20px;
+    padding-right: 40px;
+}
+.viewWrap input::placeholder {
+    color: #7a889e;
+}
+.viewWrap input {
+    font-size: 13px;
+    vertical-align: middle;
+    box-sizing: border-box;
+    padding-left: 10px;
+    height: 40px;
+    line-height: 40px;
+    border: 1px solid #eaedf0;
+    border-radius: 5px;
+    background: #fff;
+}
+
+
+.viewWrap td:nth-of-type(1) strong {
+    font-size: 15px;
+    color: #18365c;
+    text-align: left;
+    font-weight: normal;
+}
+.viewWrap td:nth-of-type(1) {
+    width: 130px;
+    padding: 30px 0;
+}
+/* tr - 1 */
+.viewWrap table tr:nth-of-type(1) strong {
+    font-size: 15px;
+    color: #18365c;
+    text-align: left;
+    font-weight: normal;
+}
+.viewWrap table tr:nth-of-type(1) select {
+    margin: 0 20px 0 0;
+}
+.viewWrap table tr:nth-of-type(1) select:nth-of-type(2) {
+    margin: 0 0 0 20px;
+}
+/* tr - 2 */
+.viewWrap tr:nth-of-type(2) input[type="text"] {
+    width: 100%;
+}
+.viewWrap tr:nth-of-type(2) span {
+    display: inline-block;
+    font-size: 13px;
+    color: #0267ae;
+    font-weight: 500;
+    margin: 0 10px 0 0;
+}
+.viewWrap tr:nth-of-type(2) div {
+    margin: 10px 0 0 0;
+}
+.viewWrap tr:nth-of-type(2) div input[type="text"] {
+    width: 50%;
+}
+/* tr - 3*/
+.viewWrap tr:nth-of-type(3) label {
+    margin: 0 20px 0 0;
+}
+/* tr - 3*/
+.viewWrap tr:nth-of-type(4) input {
+    margin: 0 10px 0 0;
+}
+.viewWrap tr:nth-of-type(4) span {
+    color: #0267ae;
+    font-size: 13px;
+}

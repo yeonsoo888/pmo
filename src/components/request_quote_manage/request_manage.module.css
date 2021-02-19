@@ -1,0 +1,33 @@
+.searchArea form {
+    display: inline-block;
+    width: 100%;
+}
+.searchArea form:nth-of-type(2),
+.searchArea form:nth-of-type(3) {
+    width: 50%;
+}
+.searchArea form > ul > li {
+    display: inline-block;
+    margin: 0 12px 0 0;
+}
+.searchArea ul li input[type="radio"] {
+    margin: 0 5px 0 0;
+}
+.searchBox {
+    margin: 10px 0 0 0;
+}
+.searchBox input {
+    width: 80%;
+    border: 1px solid #ccc;
+    height: 40px;
+    padding: 0 0 0 10px;
+
+}
+.searchBox button {
+    width: 60px;
+    background: #007dbe;
+    border: none;
+    height: 40px;
+    color: #fff;
+    font-weight: 600;
+}

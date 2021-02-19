@@ -1,0 +1,47 @@
+.table {
+    width: 100%;
+}
+.calendar_headr {
+    background: #007dbe;
+    text-align: center;
+}
+.calendar_headr th {
+    padding: 10px 0;
+}
+.calendar_headr strong,
+.calendar_headr div {
+    color: #fff;
+    display: inline-block;
+}
+
+.table tbody td {
+    position: relative;
+    width: calc(84% / 5);
+    height: 100px;
+    border: 1px solid #999;
+    padding: 20px 10px;
+}
+.table tbody td:first-child,
+.table tbody td:last-child {
+    width: 8%;
+}
+.day td {
+    background: #002940;
+    padding: 10px 0;
+    text-align: center;
+    color: #fff;
+    font-weight: 600;
+}
+.day td:nth-of-type(1) {
+    color: #BF3B0A;
+}
+.day td:nth-of-type(7) {
+    color: #BF960A;
+}
+.date {
+    position: absolute;
+    top: 0px;
+    right: 5px;
+    font-size: 18px;
+    font-weight: 600;
+}
